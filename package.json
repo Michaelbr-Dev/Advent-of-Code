@@ -1,0 +1,39 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "Advent of Code challenge realized in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "doc": "jsdoc -c jsdoc.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michaelbr-Dev/Advent-of-Code.git"
+  },
+  "keywords": [
+    "aoc",
+    "adventofcode",
+    "puzzles"
+  ],
+  "author": "Michael Briquet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Michaelbr-Dev/Advent-of-Code/issues"
+  },
+  "homepage": "https://github.com/Michaelbr-Dev/Advent-of-Code#readme",
+  "dependencies": {
+    "undefined": "^0.1.0"
+  },
+  "devDependencies": {
+    "better-docs": "^2.7.2",
+    "clean-jsdoc-theme": "^4.1.9",
+    "eslint": "^8.28.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-import-resolver-webpack": "^0.13.2",
+    "eslint-plugin-jsdoc": "^39.6.4",
+    "eslint-plugin-prettier": "^4.2.1",
+    "jsdoc": "^3.6.11",
+    "prettier": "^2.8.0"
+  }
+}
