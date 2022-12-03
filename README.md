@@ -5,9 +5,9 @@
 
 ## Days
 
-- [Day 01: Calorie Counting](01/)
-- [Day 02: Rock Paper Scissors](02/)
-- [Day 03: Rucksack Reorganization](03/)
+- [Day 01: Calorie Counting](https://github.com/Michaelbr-Dev/Advent-of-Code/tree/main/2022/01)
+- [Day 02: Rock Paper Scissors](https://github.com/Michaelbr-Dev/Advent-of-Code/tree/main/2022/02/)
+- [Day 03: Rucksack Reorganization](https://github.com/Michaelbr-Dev/Advent-of-Code/tree/main/2022/03/)
 
 ## Visit
 
