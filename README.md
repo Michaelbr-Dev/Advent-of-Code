@@ -1,14 +1,9 @@
-# Advent of Code 2022
+# What is Advent of Code ?
 
-[![JavaScript](https://badges.aleen42.com/src/javascript.svg)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-[![GitHub license](https://img.shields.io/badge/MIT-License-blue)](https://github.com/Michaelbr-Dev/Advent-of-Code/blob/main/LICENSE)
+Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as interview prep, company training, university coursework, practice problems, a speed contest, or to challenge each other.
 
-## Days
-
-- [Day 01: Calorie Counting](https://github.com/Michaelbr-Dev/Advent-of-Code/tree/main/2022/01)
-- [Day 02: Rock Paper Scissors](https://github.com/Michaelbr-Dev/Advent-of-Code/tree/main/2022/02/)
-- [Day 03: Rucksack Reorganization](https://github.com/Michaelbr-Dev/Advent-of-Code/tree/main/2022/03/)
+You don't need a computer science background to participate - just a little programming knowledge and some problem solving skills will get you pretty far. Nor do you need a fancy computer; every problem has a solution that completes in at most 15 seconds on ten-year-old hardware.
 
 ## Visit
 
-- http://adventofcode.com/2022
+- http://adventofcode.com/
