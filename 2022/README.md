@@ -42,6 +42,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 - [Day 03: Rucksack Reorganization](https://github.com/Michaelbr-Dev/Advent-of-Code/tree/main/2022/03/)
 - [Day 04: Camp Cleanup](https://github.com/Michaelbr-Dev/Advent-of-Code/tree/main/2022/04/)
 - [Day 05: Supply Stacks](https://github.com/Michaelbr-Dev/Advent-of-Code/tree/main/2022/05/)
+- [Day 06: Tuning Trouble](https://github.com/Michaelbr-Dev/Advent-of-Code/tree/main/2022/06/)
 
 ## Visit
 
