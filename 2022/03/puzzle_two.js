@@ -1,5 +1,5 @@
 /**
- * @file Puzzle one.
+ * @file Puzzle two.
  * @author Michael Briquet <contact@michaelbr-dev.fr>
  */
 
